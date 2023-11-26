@@ -1,4 +1,4 @@
-include(ExternalProject)
+lineinclude(ExternalProject)
 
 set(BOLT_SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 set(BOLT_BINARY_DIR ${CMAKE_CURRENT_BINARY_DIR})
